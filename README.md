@@ -22,3 +22,7 @@ This weighting model is particularly suited to near-term quantum hardware, where
 
 #
 [Quantum Weight](https://chatgpt.com/g/g-681d659a2cb88191837a75ce9bbd9690-quantum-weight)
+<br>
+[Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
+<br>
+[Quantum](https://github.com/sourceduty/Quantum)
